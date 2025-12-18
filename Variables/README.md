@@ -1,0 +1,1 @@
+3 types of variable:-local, instance & static

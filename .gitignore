@@ -1,0 +1,7 @@
+*.class
+.vscode/
+lib/
+bin/
+.DS_Store   // macOS file
+*.jar   // Java archive files
+target/ // Maven build directory
