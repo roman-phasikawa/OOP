@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExceptionThrowThrowsBlock 
+public class ThrowThrowsBlock 
 {
     public void readAge(int age)throws Exception
     {
@@ -14,7 +14,7 @@ public class ExceptionThrowThrowsBlock
         Scanner in = new Scanner(System.in);
         System.out.println("Please Enter Your Age");
         int age = in.nextInt();
-        ExceptionThrowThrowsBlock obj=new ExceptionThrowThrowsBlock();
+        ThrowThrowsBlock obj=new ThrowThrowsBlock();
         try
         {
             obj.readAge(age);
