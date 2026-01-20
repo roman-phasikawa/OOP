@@ -1,1 +1,1 @@
-Final Keyword
+Final Keyword is a non-access specifier tha is used to restrict a class, variable and method.We can use final in three ways:-final variable, final method and final class
