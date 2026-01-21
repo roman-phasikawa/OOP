@@ -24,7 +24,8 @@ This repo contains my Java OOPs learning Journey and my college lab works.
 | 18 | [AbstractClass](./18-AbstractClass) |
 | 19 | [Interfaces](./19-Interfaces) |
 | 20 | [User-definedPackage](./20-User-defined%20Package) |
-| 21 | [Exception](./21-Exception) |
+| 21 | [Exception Handling](./21-Exception) |
+| 22 | [String Handling](./22-Strings/) |
 |  | []() |
 | Labs | [LabReports](./lab-reports) |
 
