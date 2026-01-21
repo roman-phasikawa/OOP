@@ -1,0 +1,1 @@
+Searching a string for finding the location of either a character or group of characters.
