@@ -5,3 +5,14 @@ bin/
 .DS_Store   // macOS file
 *.jar   // Java archive files
 target/ // Maven build directory
+
+# Eclipse configuration files (created by VS Code's Java extension)
+.project
+.classpath
+.factorypath
+
+# Settings folder (if not already covered by .vscode/)
+.settings/
+
+# Log files
+*.log

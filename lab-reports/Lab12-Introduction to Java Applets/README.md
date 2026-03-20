@@ -1,0 +1,1 @@
+Demonstrating the specialized lifecycle of a Java Applet.
